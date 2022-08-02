@@ -2,10 +2,8 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/75178900/182405151-e6489fe8-84bf-400e-88a6-e2b2564a4807.JPG" />
-</p>
-![2](https://user-images.githubusercontent.com/75178900/182405151-e6489fe8-84bf-400e-88a6-e2b2564a4807.JPG)
 
-![2](https://user-images.githubusercontent.com/75178900/182405151-e6489fe8-84bf-400e-88a6-e2b2564a4807.JPG)
+ <img src=https://user-images.githubusercontent.com/75178900/182405151-e6489fe8-84bf-400e-88a6-e2b2564a4807.JPG />
 
 ![Przechwytywanie1 (1)](https://user-images.githubusercontent.com/75178900/182405856-445ab393-b713-4ff7-b1df-1007b6834dbe.JPG)
 
@@ -41,4 +39,4 @@ nie wrzucam kodu źródłowego (gra była tworzona podczas zajęć owego przedmi
 ![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/75178900/182470720-edce1ac8-6626-4b22-94dc-c1d12b13de84.gif)
 ![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/75178900/182470801-c8f8647f-3c78-4981-9953-1d820a03b24b.gif)
 
-
+</p>
