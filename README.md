@@ -4,9 +4,9 @@
 
 ![Przechwytywanie1 (1)](https://user-images.githubusercontent.com/75178900/182405856-445ab393-b713-4ff7-b1df-1007b6834dbe.JPG)
 
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/75178900/182405177-632bfe3b-4816-4158-8d3c-3b9439f87c2b.gif)
-
 ![IMG-20220127-WA0000 (1) (1)](https://user-images.githubusercontent.com/75178900/182405400-5dcdbeb9-62e5-41b9-9f8f-a703578a88fc.jpeg)
+
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/75178900/182405177-632bfe3b-4816-4158-8d3c-3b9439f87c2b.gif)
 
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/75178900/182405452-09e2571e-378c-42e2-b8c6-447f6d3041f2.gif)
 
