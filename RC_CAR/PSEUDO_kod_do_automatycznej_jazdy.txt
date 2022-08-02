@@ -1,0 +1,105 @@
+pseudo kod automatycznego poruszania sie
+
+long int time // czas
+
+licznik_przeciwzakloceniowy;
+
+int pomiar //odlegosc z czujnika ultradziwiekowego
+int bezpieczna_odleglosc_bok // odlegosc od przeszkody jaka jest akceptowalna (z boku)
+int bezpieczna_odleglosc_przod //odlegosc od przeszkody jaka jest akceptowalna (z przodu)
+int czas_do_przodu //czas poruszania sie do przodu
+int czas_cofania //czas cofania sie w razie wykrycia przeszkody po kazdej stronie
+int czas na skręta //czas skrecania na koniec cofania
+
+promien skretu servo// najpierw skreca zawsze w prawo
+_______________________________________________________
+
+**zrób sterowanie przekaznika za pomocą  pętli**
+np.
+if(reviverdumber<50) 
+if(time%4=0)
+{robi cos przekazniiki};
+if(reviverdumber<40)
+if(time%3=0)
+{robi cos przekazniiki};
+if(reviverdumber<30)
+if(time%2=0)
+{robi cos przekazniiki};
+if(reviverdumber<20)
+{robi cos przekazniiki};
+
+//4,3,2 moga byc za małe, zobacz najpierw ja jakiej czestotliwosci jest w stanie "tykać" przekaznik,
+najlepiej podłącz do silnika i zobacz w jaki sposob to reguluje obroty.
+_________________________________________________________________________
+
+//cofanie w razie wykrycia przeszkody z przodu
+if(servoCZUJNIKA ODLEGLOSCI_pos>(srodkowa pozycja)&&odleglosc<bezpieczna_odleglosc_przod)
+{
+licznik_przeciwzakloceniowy++;
+}
+if(licznik_przeciwzakloceniowy>25; //czyli czujnik wskazuje odleglosc wieksza od 0 przez 1/4 sekundy
+{
+{START: robi cos przekazniiki};
+{delay(czas_do_tylu)};
+{servoSKRECANIA_pos=(promien skretu servo);   //jedzie do tylu i na koniec skreca na chwile zeby zmienic kierunek jazdy
+delay(czas na skręt);
+{servoSKRECANIA_pos=(wartosc defaultowa(na srodku));
+{KONIEC: robi cos przekazniiki};
+}
+
+
+if(tutaj daj ifa ze jak mimo skretu bedzie za mała odległość to ma sie najpierw odwrocic w 2 stronę a potem ma sie odwrocic do tyłu.)
+
+}
+
+else if(odleglosc<bezpieczna_odleglosc_bok)
+{
+if(servoCZUJNIKA ODLEGLOSCI_pos=(po prawej stronie)
+{
+if(odleglosc<NP.1000&&odleglosc>NP.500)
+{servoSKRECANIA_pos = (skręc w lewo troche);
+
+if(odleglosc<NP.500&&odleglosc>NP.250)
+{servoSKRECANIA_pos = (skręc w lewo srednio);
+
+if(odleglosc<NP.250&&odleglosc>NP.100)
+{servoSKRECANIA_pos = (skręc w lewo bardzo);
+};
+
+/////////////////////////////////////////////////////////////
+
+
+if(servoCZUJNIKA ODLEGLOSCI_pos=(po lewej stronie)
+{
+if(odleglosc<NP.1000&&odleglosc>NP.500)
+{servoSKRECANIA_pos = (skręc w prawo troche);
+
+if(odleglosc<NP.500&&odleglosc>NP.250)
+{servoSKRECANIA_pos = (skręc w prawo srednio);
+
+if(odleglosc<NP.250&&odleglosc>NP.100)
+{servoSKRECANIA_pos = (skręc w prawo bardzo);
+};
+
+};
+
+time++;
+time=time%300;
+if(time==100)
+{
+servoCZUJNIKALDEGLOSCI pos=lewo
+licznik_przeciwzakloceniowy=0;  //zeby nie lapalo zaklocen z innej storny.
+}
+if(time==200)
+{
+servoCZUJNIKALDEGLOSCI pos=srodek
+licznik_przeciwzakloceniowy=0;
+}
+if(time==300)
+{
+servoCZUJNIKALDEGLOSCI pos=prawo
+licznik_przeciwzakloceniowy=0;
+}
+
+if(time==30000)
+{time=0;}
