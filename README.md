@@ -22,6 +22,10 @@
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/75178900/182406412-f80aa433-94b6-430f-a48d-e4ba7ceb1c34.gif)
 
-![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/75178900/182406451-4810a41b-8482-49c5-99c3-b7bce8aac9ed.gif)
+
+
+# KOCHAM OIS - The Game
+nie wrzucam kodu źródłowego (gra była tworzona podczas zajęć owego przedmiotu, znajdują się tam niecenzuralne wyrażenia)
+
 
 
