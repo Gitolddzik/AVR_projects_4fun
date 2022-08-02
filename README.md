@@ -27,5 +27,13 @@
 # KOCHAM OIS - The Game
 nie wrzucam kodu źródłowego (gra była tworzona podczas zajęć owego przedmiotu, znajdują się tam niecenzuralne wyrażenia)
 
+![20220802_211930-min](https://user-images.githubusercontent.com/75178900/182470667-446164c1-0e30-41a7-bff9-aa88bbc368c3.jpg)
+![20220802_212936-min](https://user-images.githubusercontent.com/75178900/182470675-8c06434c-a56a-4bd9-8385-7575aa91c40b.jpg)
+![20220802_212953-min](https://user-images.githubusercontent.com/75178900/182470683-a8f1d2fd-ffa7-4b43-8f33-3d81a475382e.jpg)
+![20220802_213001-min](https://user-images.githubusercontent.com/75178900/182470689-a0910568-f5c2-40d9-91bf-d794b41c766e.jpg)
+![20220802_213021-min](https://user-images.githubusercontent.com/75178900/182470704-14eac2da-b4bb-4f27-98f2-2cb47922add3.jpg)
+![tempFileForShare_20220802-21562![tempFileForShare_20220802-215623 (1)-min](https://user-images.githubusercontent.com/75178900/182471005-faaece05-fb49-403a-9232-86e7663e12d8.jpg)
+![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/75178900/182470720-edce1ac8-6626-4b22-94dc-c1d12b13de84.gif)
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/75178900/182470801-c8f8647f-3c78-4981-9953-1d820a03b24b.gif)
 
 
