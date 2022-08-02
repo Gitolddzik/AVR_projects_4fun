@@ -1,6 +1,8 @@
 # Football_pitch
+<p align="center">
+  <img width="300" height="300" src="![2](https://user-images.githubusercontent.com/75178900/182405151-e6489fe8-84bf-400e-88a6-e2b2564a4807.JPG)">
+</p>
 
-![2](https://user-images.githubusercontent.com/75178900/182405151-e6489fe8-84bf-400e-88a6-e2b2564a4807.JPG)
 
 ![Przechwytywanie1 (1)](https://user-images.githubusercontent.com/75178900/182405856-445ab393-b713-4ff7-b1df-1007b6834dbe.JPG)
 
