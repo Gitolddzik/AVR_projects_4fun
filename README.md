@@ -1,6 +1,7 @@
 # Football_pitch
 
 <p align="center">
+ 
  <img src="https://user-images.githubusercontent.com/75178900/182405151-e6489fe8-84bf-400e-88a6-e2b2564a4807.JPG" />
  <img src=https://user-images.githubusercontent.com/75178900/182405151-e6489fe8-84bf-400e-88a6-e2b2564a4807.JPG />
 
@@ -12,7 +13,7 @@
    <img src=https://user-images.githubusercontent.com/75178900/182405177-632bfe3b-4816-4158-8d3c-3b9439f87c2b.gif />
 
     
-    <img src=https://user-images.githubusercontent.com/75178900/182405177-632bfe3b-4816-4158-8d3c-3b9439f87c2b.gif />
+   <img src=https://user-images.githubusercontent.com/75178900/182473085-95782ad6-78b6-4cb1-aee8-efb254959563.gif />
 
 
 
