@@ -25,10 +25,16 @@
 
 
 # KOCHAM OIS - The Game
+The source code is not uploaded, cause the game was created during the classes of this subject, there are obscene expressions there :c
+Its simple game with a finall boss.
+The purpose  is to get 10 ECTS points.
+The LED at the top indicates the level of life, it brightens up when we collect life points and darkens when we are getting hit, the LED goes out and it's a loss.
+
 nie wrzucam kodu źródłowego (gra była tworzona podczas zajęć owego przedmiotu, znajdują się tam niecenzuralne wyrażenia :c )
-gra prosta, z końowym bossem. 
+Gra prosta, z końowym bossem. 
 Cel? zdobądź 10 ECTS.
 Led u góry wskazuje poziom życia, rozjaśnia się gdy je zbierzemy i ściemnia gdy stracimy, zgaśnięcie LED-a to przegrana.
+
 
 <p align="center">
 
